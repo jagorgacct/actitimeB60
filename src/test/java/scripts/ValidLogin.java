@@ -3,8 +3,6 @@ package scripts;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-import com.relevantcodes.extentreports.LogStatus;
-
 import generic.BaseTest;
 import generic.Util;
 import page.EnterTimeTrackPage;
