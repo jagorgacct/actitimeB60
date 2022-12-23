@@ -36,8 +36,8 @@ public abstract class BaseTest implements IAutoConst{
 	
 	static
 	{
-		WebDriverManager.chromedriver().setup();
-		WebDriverManager.firefoxdriver().setup();
+//		WebDriverManager.chromedriver().setup();
+//		WebDriverManager.firefoxdriver().setup();
 	}
 	
 	@BeforeSuite
